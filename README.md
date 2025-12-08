@@ -69,3 +69,7 @@ Usage: add <num1> <num2>
 - The program expects integer values as input
 - Providing non-integer values will result in a `NumberFormatException`
 - Only the first two arguments are used; additional arguments are ignored
+
+## About
+
+This project was created as part of the Tuwaiq Academy Software Development Bootcamp.
