@@ -73,3 +73,6 @@ Usage: add <num1> <num2>
 ## About
 
 This project was created as part of the Tuwaiq Academy Software Development Bootcamp.
+
+The code was AI-generated as a learning tool. The primary objective was to study and understand the code structure, analyze the program flow, and gain the ability to modify and enhance the functionality independently through hands-on practice.
+
